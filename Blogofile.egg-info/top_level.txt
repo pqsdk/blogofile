@@ -1,0 +1,2 @@
+blogofile/site_init
+blogofile

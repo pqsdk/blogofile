@@ -1,0 +1,9 @@
+mako
+BeautifulSoup
+pytz
+pyyaml
+textile
+markdown>=2.0
+argparse
+pygments
+docutils
